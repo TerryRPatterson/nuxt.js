@@ -1,0 +1,3 @@
+#! /usr/bin/sh
+
+path_append $SRC/node_modules/.bin

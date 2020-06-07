@@ -53,7 +53,7 @@ export async function loadNuxtConfig ({
     // Clear cache
     clearRequireCache(configFile)
 
-    options = esm(module)(configFile) || {}
+    options = await import(configFile) || {}
 
     if (options.default) {
       options = options.default
