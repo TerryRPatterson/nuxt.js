@@ -18,11 +18,11 @@
     "vue-meta": "^2.3.4",
     "vue-server-renderer": "^2.6.11"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "esm": "3.2.25",
     "yarn": "1.22.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

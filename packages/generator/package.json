@@ -16,11 +16,11 @@
     "html-minifier": "^4.0.0",
     "node-html-parser": "^1.2.18"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "esm": "3.2.25",
     "yarn": "1.22.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

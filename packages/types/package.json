@@ -29,11 +29,11 @@
     "@types/webpack-hot-middleware": "^2.25.3",
     "esm": "3.2.25"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "esm": "3.2.25",
     "yarn": "1.22.4"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
