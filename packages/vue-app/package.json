@@ -12,6 +12,7 @@
     "index.d.ts"
   ],
   "dependencies": {
+    "esm": "3.2.25",
     "node-fetch": "^2.6.0",
     "unfetch": "^4.1.0",
     "vue": "^2.6.11",

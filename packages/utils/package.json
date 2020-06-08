@@ -9,6 +9,7 @@
   ],
   "dependencies": {
     "consola": "^2.12.2",
+    "esm": "3.2.25",
     "fs-extra": "^8.1.0",
     "hash-sum": "^2.0.0",
     "proper-lockfile": "^4.1.1",
